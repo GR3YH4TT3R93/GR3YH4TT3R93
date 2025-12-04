@@ -1,8 +1,8 @@
-# ![Profile Stats](https://github-readme-stats.vercel.app/api?username=GR3YH4TT3R93&show_icons=true&hide_border=true&theme=onedark)
+# [![Profile Stats](https://raw.githubusercontent.com/GR3YH4TT3R93/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
 
-# ![Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=GR3YH4TT3R93&hide_border=true&theme=onedark)
+# [![GitHub Streak](https://streak-stats.demolab.com?user=GR3YH4TT3R93&theme=onedark)](https://git.io/streak-stats)
 
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GR3YH4TT3R93&hide_border=true&theme=onedark)
+# [![Top Langs](https://raw.githubusercontent.com/GR3YH4TT3R93/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
 
 <!--
 **GR3YH4TT3R93/GR3YH4TT3R93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
